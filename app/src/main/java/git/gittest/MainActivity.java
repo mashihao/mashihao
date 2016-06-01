@@ -15,9 +15,9 @@ public class MainActivity extends AppCompatActivity {
     public void testgit(View view) {
         Toast.makeText(MainActivity.this, "Test Git1", Toast.LENGTH_SHORT).show();
     }
-//    public void testgit2(View view) {
-//        Toast.makeText(MainActivity.this, "Test Git2", Toast.LENGTH_SHORT).show();
-//    }
+    public void testgit2(View view) {
+        Toast.makeText(MainActivity.this, "Test Git2", Toast.LENGTH_SHORT).show();
+    }
 //    public void testgit3(View view) {
 //        Toast.makeText(MainActivity.this, "Test Git3", Toast.LENGTH_SHORT).show();
 //    }
