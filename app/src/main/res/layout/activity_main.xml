@@ -23,11 +23,11 @@
         android:onClick="testgit2"
         android:text="我是版本二" />
 
-    <!--<Button-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:onClick="testgit3"-->
-        <!--android:text="我是版本三" />-->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="testgit3"
+        android:text="我是版本三" />
 
 
 </LinearLayout>
